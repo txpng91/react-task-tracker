@@ -17,6 +17,12 @@
       "day": "Sep 7th at 7:30pm",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Amusement Park",
+      "day": "Oct 13th 7:30pm",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
